@@ -9,7 +9,7 @@ from CVRP_LocalSearch import CVRP_LocalSearch
 class CVRP_GeneticAlgorithm:
 
     def __init__(self, popSize=100, crossoverType="OX", crossoverRate=0.8,
-                 mutationType="swap", mutationRate=0.2, nbOfGenerations=100,
+                 mutationType="swap", mutationRate=0.2, nbOfGenerations=500,
                  applyLocalSearch=True):
         self.__popSize = popSize
         self.__crossoverType = crossoverType

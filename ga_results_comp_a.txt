@@ -1,0 +1,72 @@
+
+============================================================
+INSTANCE: ./problem_instances_CVRP/A-n32-k5.vrp
+START TIME: 2026-04-17 21:07:50
+============================================================
+
+Run 1: fitness=796.00, time=123.8537s
+Run 2: fitness=815.00, time=111.0566s
+Run 3: fitness=801.00, time=112.1091s
+Run 4: fitness=801.00, time=109.5173s
+Run 5: fitness=796.00, time=127.1346s
+Run 6: fitness=818.00, time=109.1793s
+Run 7: fitness=796.00, time=115.1500s
+Run 8: fitness=808.00, time=109.9218s
+Run 9: fitness=801.00, time=108.3966s
+Run 10: fitness=810.00, time=122.5862s
+
+===== SUMMARY =====
+Best Result of 10 Runs: 796
+Average Result of 10 Runs: 804.2
+Best Time of Finding Best Result: 123.8537
+Average Time of 10 Runs: 114.8905
+
+Results are also saved to: ga_results.txt
+
+============================================================
+INSTANCE: ./problem_instances_CVRP/A-n53-k7.vrp
+START TIME: 2026-04-17 21:29:03
+============================================================
+
+Run 1: fitness=1055.00, time=196.3625s
+Run 2: fitness=1066.00, time=196.1652s
+Run 3: fitness=1120.00, time=179.7581s
+Run 4: fitness=1059.00, time=298.6729s
+Run 5: fitness=1082.00, time=183.7508s
+Run 6: fitness=1049.00, time=207.4826s
+Run 7: fitness=1050.00, time=200.4248s
+Run 8: fitness=1053.00, time=291.4169s
+Run 9: fitness=1086.00, time=192.6885s
+Run 10: fitness=1127.00, time=246.3325s
+
+===== SUMMARY =====
+Best Result of 10 Runs: 1049
+Average Result of 10 Runs: 1074.7
+Best Time of Finding Best Result: 207.4826
+Average Time of 10 Runs: 219.3055
+
+Results are also saved to: ga_results.txt
+
+============================================================
+INSTANCE: ./problem_instances_CVRP/E-n51-k5.vrp
+START TIME: 2026-04-17 22:07:55
+============================================================
+
+Run 1: fitness=537.00, time=138.8776s
+Run 2: fitness=546.00, time=162.6876s
+Run 3: fitness=535.00, time=243.9072s
+Run 4: fitness=540.00, time=123.7687s
+Run 5: fitness=527.00, time=307.4905s
+Run 6: fitness=536.00, time=143.2881s
+Run 7: fitness=526.00, time=170.2534s
+Run 8: fitness=541.00, time=145.7341s
+Run 9: fitness=544.00, time=154.0454s
+Run 10: fitness=527.00, time=213.7207s
+
+===== SUMMARY =====
+Best Result of 10 Runs: 526
+Average Result of 10 Runs: 535.9
+Best Time of Finding Best Result: 170.2534
+Average Time of 10 Runs: 180.3773
+
+Results are also saved to: ga_results.txt

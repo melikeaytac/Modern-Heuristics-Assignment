@@ -25,7 +25,7 @@ def single_run(instanceName):
 
     ga = CVRP_GeneticAlgorithm(
         popSize=50,
-        nbOfGenerations=100,
+        nbOfGenerations=500,
     )
 
     start = time.time()
@@ -67,7 +67,7 @@ def ten_runs(instanceName):
 
 
 if __name__ == "__main__":
-    instanceName = "./problem_instances_CVRP/A-n32-k5.vrp"
+    instanceName = "./problem_instances_CVRP/E-n51-k5.vrp"
     output_file = "ga_results.txt"
 
     with open(output_file, "a", encoding="utf-8") as f:
